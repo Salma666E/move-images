@@ -1,0 +1,26 @@
+#container{
+    width: 255px;
+    height: 255px;
+    border: 2px solid red;
+    margin-bottom: 5px;
+    position: relative;
+}
+img{
+    height: 30px;
+}
+#vert_left{
+    left: 0;
+    top: 40%;
+    position: absolute;
+}
+#vert_right{
+    right: 0;
+    top: 40%;
+    position: absolute;
+}
+#vert_bottom{
+    height: 25px;
+    bottom: 0;
+    left: 42%;
+    position: absolute;
+}
